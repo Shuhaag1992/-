@@ -1,0 +1,6 @@
+{
+  "name": "রাবার বাগান হিসাব ব্যবস্থাপনা",
+  "description": "একাধিক রাবার বাগানের শ্রমিক, দৈনিক কাজ (সিট, ডবল, হাফ), বেতন, অগ্রিম, খরচ, আয় ও বিনিয়োগের সম্পূর্ণ নির্ভুল হিসাব সফটওয়্যার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
